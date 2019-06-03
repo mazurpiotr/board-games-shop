@@ -1,0 +1,249 @@
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csc.exe
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csc.exe.config
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csc.rsp
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csi.exe
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csi.rsp
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.AppContext.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\vbc.exe
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\vbc.exe.config
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\vbc.rsp
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\SklepGryPlanszowe.dll.config
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\SklepGryPlanszowe.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\SklepGryPlanszowe.pdb
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Antlr3.Runtime.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\EntityFramework.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\EntityFramework.SqlServer.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Newtonsoft.Json.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Owin.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Helpers.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Mvc.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Optimization.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Razor.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\WebGrease.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Antlr3.Runtime.pdb
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Newtonsoft.Json.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Helpers.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Mvc.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Optimization.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Razor.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\EntityFramework.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\EntityFramework.SqlServer.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\obj\Debug\SklepGryPlanszowe.dll
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\obj\Debug\SklepGryPlanszowe.pdb
+C:\Users\Joanna\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\obj\Debug\SklepGryPlanszowe.csprojResolveAssemblyReference.cache
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csc.exe
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csc.exe.config
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csc.rsp
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csi.exe
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csi.rsp
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.AppContext.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\vbc.exe
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\vbc.exe.config
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\vbc.rsp
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\SklepGryPlanszowe.dll.config
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\SklepGryPlanszowe.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\SklepGryPlanszowe.pdb
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Antlr3.Runtime.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\EntityFramework.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\EntityFramework.SqlServer.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Newtonsoft.Json.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Owin.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Helpers.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Mvc.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Optimization.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Razor.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\WebGrease.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Antlr3.Runtime.pdb
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Newtonsoft.Json.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Helpers.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Mvc.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Optimization.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Razor.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\EntityFramework.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\EntityFramework.SqlServer.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\obj\Debug\SklepGryPlanszowe.csprojResolveAssemblyReference.cache
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\obj\Debug\SklepGryPlanszowe.dll
+C:\Users\Asia\Documents\SklepGryPlanszowe\SklepGryPlanszowe\obj\Debug\SklepGryPlanszowe.pdb
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csc.exe
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csc.exe.config
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csc.rsp
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csi.exe
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\csi.rsp
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.AppContext.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\vbc.exe
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\vbc.exe.config
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\vbc.rsp
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\SklepGryPlanszowe.dll.config
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\SklepGryPlanszowe.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\SklepGryPlanszowe.pdb
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Antlr3.Runtime.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\EntityFramework.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\EntityFramework.SqlServer.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Newtonsoft.Json.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Owin.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Helpers.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Mvc.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Optimization.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Razor.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\WebGrease.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Antlr3.Runtime.pdb
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Newtonsoft.Json.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Helpers.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Mvc.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Optimization.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.Razor.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\EntityFramework.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\EntityFramework.SqlServer.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\obj\Debug\SklepGryPlanszowe.csprojResolveAssemblyReference.cache
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\obj\Debug\SklepGryPlanszowe.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\SklepGryPlanszowe\SklepGryPlanszowe\obj\Debug\SklepGryPlanszowe.pdb

@@ -1,0 +1,25 @@
+﻿@model SklepGryPlanszowe.Products
+
+<div class="col-sm-3">
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <div class="text-center">
+                <img src="~/Content/images/@Model.ImageName" class="img-rounded height150 img" />
+            </div>
+        </div>
+        <div class="panel-footer">
+            <span class="h4 text-primary crop-text no-margin">@Model.Name</span>
+            <p class="text-danger no-margin">@Model.Description</p>
+            <div class="text-center">
+                <span class="price">@Math.Round(Model.Price, 2)</span> <span class="priceCurrency">PLN</span>
+            </div>
+            <div class="text-center">
+                @using (Html.BeginForm("AddToCart", "Cart"))
+                {
+                   @Html.Hidden("productId", @Model.Id);
+                   <input type="submit" class="btn btn-default" value="Dodaj do koszyka &raquo"/>
+                }
+            </div>
+        </div>
+    </div>
+</div>

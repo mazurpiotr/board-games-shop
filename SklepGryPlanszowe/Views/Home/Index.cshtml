@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Our Games";
+}
+
+<div class="row">
+    @model SklepGryPlanszowe.Models.ProductsList
+    
+    @foreach (var p in Model.Products)
+    {
+        Html.RenderPartial("ProductSummary", p);
+    }
+</div>

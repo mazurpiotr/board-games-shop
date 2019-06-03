@@ -1,0 +1,11 @@
+﻿<div class="navbar">
+    <form class="navbar-form" role="search">
+        <h3 style="display:inline;" class="btn btn-lg btn-danger">GRY PLANSZOWE</h3>
+
+         @using (Html.BeginForm("Search", "Home"))
+         {
+             @Html.TextBox("name", null, new { @class = "form-control" })
+             <input type="submit" class="btn btn-default" value="Wyszukaj &raquo" />
+         }
+    </form>
+</div>

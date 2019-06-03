@@ -1,0 +1,95 @@
+﻿@{
+    ViewBag.Title = "Koszyk";
+}
+
+<div class="page-header no-margin-top">
+    <h2>@ViewBag.Title.</h2>
+</div>
+
+
+<div class="well well-sm">Lista produktów które kupujesz.</div>
+
+<table class="table table-hover">
+    <thead>
+        <tr class="active">
+            <th><span class="fa fa-shopping-cart"></span> Produkty</th>
+            <th class="text-center">Ilość</th>
+            <th class="text-right">Cena</th>
+            <th class="text-right">Wartość</th>
+            <th> </th>
+        </tr>
+    </thead>
+
+
+
+    @{
+
+        List<SklepGryPlanszowe.Models.CartItem> items = ViewBag.Cart;
+
+        if (items.Count == 0)
+        {   
+            <tr>
+                <td>
+                    <div class="alert alert-info"><b>Koszyk jest pusty.</b></div>
+                </td>
+            </tr>
+            
+        }
+        else
+        {
+            <tbody>
+                @foreach (SklepGryPlanszowe.Models.CartItem p in ViewBag.Cart)
+                {
+
+                    if (p == null)
+                    {
+                        <tr>
+                            <td class="alert alert-info"><b>Koszyk jest pusty.</b></td>
+                        </tr>
+                    }
+                    else {
+                        <tr>
+                            <td class="col-sm-5">
+                                <div class="media">
+                                    <a class="media-left" href="#">
+                                        <img class="media-object img-rounded img-small icon40" SRC="~/Content/images/@p.Product.ImageName" ALT="@p.Product.Name">
+                                    </a>
+                                    <div class="media-body">
+                                            <h4>@p.Product.Name</h4>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="col-sm-2 text-center">
+                                <button type="button" class="btn btn-default btn-sm toolip-info"><span class="glyphicon glyphicon-minus"></span></button>
+                                <span>@p.Quantity</span>
+                                <button type="button" class="btn btn-default btn-sm toolip-info"><span class="glyphicon glyphicon-plus"></span></button>
+                            </td>
+                            <td class="col-sm-2 text-right">
+                                <span class="price">@Math.Round(p.Product.Price, 2)</span> <span class="priceCurrency">PLN</span>
+                            </td>
+                            <td class="col-sm-2 text-right">
+                                @{ 
+                                    decimal totalPrice;
+                                    totalPrice = p.Product.Price * p.Quantity;
+                                }
+                                <span class="price">@Math.Round(totalPrice, 2)</span><span class="priceCurrency">PLN</span>
+                            </td>
+                            <td class="col-sm-1">
+                                @using (Html.BeginForm("RemoveItem", "Cart"))
+                                {
+                                    @Html.Hidden("productId", p.Product.Id);
+                                    <input type="submit" class="btrn btn-danger btn-xs toolip-info" data-original-title="Usuń" data-toggle="tooltip" data-placement="bottom" value="X"/>
+                                }
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        }
+    }
+
+</table>
+@using (Html.BeginForm("PlaceOrder", "Cart"))
+{
+    <input type="submit" class="btn btn-default" value="Zamów &raquo" />
+}

@@ -1,0 +1,83 @@
+﻿body {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.blue_background {
+    background-color: #eeeeee
+}
+
+.crop-text {
+    overflow: hidden;
+    white-space: nowrap; /* Don't forget this one */
+    text-overflow: ellipsis;
+    display: block;
+}
+
+.crop-text:hover {
+    overflow: visible;
+    white-space: normal; /* Don't forget this one */
+    text-overflow: initial;
+    display: block;
+}
+
+.height150 {
+    max-height: 150px;
+}
+
+.price {
+    font-size:16px;
+    font-weight:bold;
+    color:#777777;
+}
+
+.priceCurrency {
+    font-size:14px;
+    font-weight:bold;
+    color:#777777;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.no-margin-top {
+    margin-top: 0;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.no-padding-top {
+    padding-top: 0;
+}
+
+.icon40 {
+    width: 40px;
+    height: 40px;
+}
+
+.display-inline {
+    display:inline;
+}
